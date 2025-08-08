@@ -2,8 +2,6 @@
 
 Welcome to your Git Troubleshooting Lab. This document provides guidance on how to investigate and fix common issues in this intentionally broken Git repository.
 
----
-
 ## General Workflow
 
 Before doing anything, always:
