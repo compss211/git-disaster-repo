@@ -1,4 +1,4 @@
-# HW2 - Git Troubleshooting Lab
+# HW2: Git Troubleshooting Lab
 
 Welcome to your Git Troubleshooting Lab. This document provides guidance on how to investigate and fix common issues in this intentionally broken Git repository.
 
